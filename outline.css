@@ -1,0 +1,692 @@
+body {
+    background-color: black;
+}
+
+.edge{
+    width: 1440px;
+    height: 2240px;
+    margin: 3px;
+    border: 3px solid black;
+    justify-content: center;
+
+}
+
+.boxa{
+    display: flex;
+    justify-content: space-between;
+    width: 1424px;
+    height: 70px;
+    border: 3px solid black;
+    background-color: black;
+}
+
+.arrange{
+    display: flex;
+    justify-content: space-between;
+}
+.link {
+    display: flex;
+}
+
+.icon {
+    display: flex;
+}
+
+.icons{
+    justify-content: flex-end;
+}
+
+.icon{
+    justify-content: flex-end;
+}
+.boxb{
+    width: 1440px;
+    height: 750px;
+    margin: 5px;
+    border: 3px solid ;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    background-image: url(./images/Film-Review-The-Rock-Black-Adam.jpg);
+    background-position-x: 40vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+
+
+.title{
+    color: white;
+    font-size: 50px;
+}
+
+.more-play{
+    display: flex;
+}
+.certificate {
+    display: flex;
+    align-items: center;
+}
+
+.texta {
+    color: white;
+}
+ 
+
+.textb {
+    color: white;
+}
+ 
+.textc {
+    color: white;
+}
+ 
+.textd {
+    color: white;
+}
+ 
+.boxc{
+    width: 300px;
+    height: 70px;
+    margin: 5px;
+    border: 3px solid ;
+    display: flex;
+}
+
+.boxca{
+    width: 500px;
+    height: 70px;
+    margin: 5px;
+    border: 3px solid ;
+    display: flex;
+}
+.boxd{
+    width: 1424px;
+    height: 165px;
+    margin: 5px;
+    border: 3px solid  ;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+
+}
+
+
+
+.boxe{
+    width: 1000px;
+    height: 375px;
+    margin: 5px;
+    padding-left: 230px;
+    border: 3px solid ;
+
+}
+
+.logo{
+    width: 150px;
+    height: 53px;
+    margin: 5px;
+    border: 3px solid  ;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+}
+
+.linksaa {
+    list-style-type: none;
+}
+
+.linksaa {
+    width: 40px;
+    height: 15px;
+    border: 3px solid black;
+    padding-left: 20px ;
+    padding-top: 34px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+}
+b{
+    text-decoration: none;
+    color: gray;
+    font-family: sans-serif;
+    font-size: smaller;
+}
+c{
+    text-decoration: none;
+    color: gray;
+    font-family: sans-serif;
+    font-size: smaller;
+}
+.alinksa {
+    width: 200px;
+    height: 30px;
+    margin: 3px;
+    border: 3px solid ;
+
+}
+.aalinksa {
+    width: 90px;
+    height: 10px;
+    margin: 3px;
+    margin-top: 20px;
+    padding-left: 5px;
+    padding-top: 4px;
+    padding-right: 1px;
+    padding-bottom: 13px;
+    border: 3px solid gray;
+}
+.aalinksaa {
+    width: 200px;
+    height: 25px;
+    margin: 3px;
+    padding-top: 15px;
+    border: 3px solid;
+}
+
+
+.linksad {
+    width: 200px;
+    height: 30px;
+    margin: 3px;
+    border: 3px solid black;
+}
+
+.linksab {
+    width: 200px;
+    height: 30px;
+    margin: 3px;
+    border: 3px solid black;
+}
+.linksac {
+    width: 200px;
+    height: 30px;
+    margin: 3px;
+    border: 3px solid black;
+}
+
+
+
+.linksb {
+    width: 75px;
+    height: 20px;
+    margin: 6px;
+    border: 3px solid black;
+    padding-top: 27px;
+    padding-left: 10px;
+}
+
+.linksc {
+    width: 50px;
+    height: 20px;
+    margin: 6px;
+    border: 3px solid black;
+    padding-top: 27px;
+}
+
+.linksd {
+    width: 108px;
+    height: 20px;
+    margin: 6px;
+    border: 3px solid black;
+    padding-top: 27px;
+}
+
+.linkse {
+    width: 54px;
+    height: 20px;
+    margin: 6px;
+    border: 3px solid black;
+    padding-top: 27px;
+}
+
+.linksf {
+    width: 160px;
+    height: 20px;
+    margin: 6px;
+    border: 3px solid black;
+    padding-top: 27px;
+}
+
+
+.icons{
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+    padding-top: 7px;
+    border: 3px solid black;
+}
+
+.title{
+    width: 400px;
+    height: 80px;
+    margin: 25px;
+    border: 3px ;
+}
+
+.rank{
+    width: 400px;
+    height: 50px;
+    margin: 25px;
+    border: 3px ;
+}
+
+.mov-info{
+    width: 550px;
+    height: 100px;
+    margin: 25px;
+    padding-top: 60px;
+    border: 3px solid lack;
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.play{
+    width: 120px;
+    height: 45px;
+    margin: 10px;
+    margin-left: 30px;
+    border: 3px ;
+}
+
+.volume{
+    width: 50px;
+    height: 50px;
+    border: 3px ;
+    margin-top: 200px;
+}
+.more-info{
+    width: 180px;
+    height: 45px;
+    margin: 10px;
+    border: 3px ;
+
+}
+
+.cer{
+    width: 150px;
+    height: 50px;
+    margin: 25px;
+    border: 3px ;
+    margin-top: 220px;
+}
+.texta{
+    width: 178px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    border: 3px ;
+}
+
+.arrowa{
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 3px ;
+    padding-top: 26px;
+}
+
+.textb{
+    width: 380px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    border: 3px ;
+}
+
+.arrowb{
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 3px ;
+    padding-top: 26px;
+}
+.textc{
+    width: 330px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    border: 3px ;
+}
+
+.arrowc{
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 3px ;
+    padding-top: 26px;
+}
+
+.textd{
+    width: 159px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    border: 3px ;
+}
+
+.arrowd{
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 3px ;
+    padding-top: 26px;
+}
+
+.boxca{
+    display: flex;
+}
+
+.boxea{
+    display: flex;
+    padding-right: 10px;
+}
+.smedia{
+    width: 30px;
+    height: 30px;
+    margin-top: 125px;
+    border: 3px solid black;
+    
+}
+
+.smedia1{
+    width: 30px;
+    height: 30px;
+    margin-top: 125px;
+    margin-left: 20px ;
+    border: 3px solid black;
+    
+}
+
+.smedia2{
+    width: 30px;
+    height: 30px;
+    margin-top: 125px;
+    margin-left: 20px ;
+    border: 3px solid black;
+    
+}
+
+.smedia3{
+    width: 30px;
+    height: 30px;
+    margin-top: 125px;
+    margin-left: 20px ;
+    border: 3px solid black;
+    
+}
+
+.boxeab{
+    display: flex;
+    padding-bottom: 50px;
+    width: auto;
+
+}
+.boxeb{
+    display: flex;
+    margin-right: 150px;
+    width: auto;
+}
+
+
+.thumbnailb1{
+    width: 350px;
+    height: 160px;
+    margin: 2px;
+    margin-left: 20px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/Matched/1.jpg);
+}
+
+.thumbnailba2{
+    width: 350px;
+    height: 160px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/Matched/2.jpg);
+}
+
+.thumbnailba3{
+    width: 350px;
+    height: 160px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/Matched/3.jpg);
+}
+ 
+
+.thumbnailba4{
+    width: 350px;
+    height: 160px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/Matched/4.jpg);
+}
+ 
+.thumbnailba5{
+    width: 350px;
+    height: 160px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/Matched/5.jpg);
+}
+ 
+.thumbnailba6{
+    width: 350px;
+    height: 160px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/Matched/6.jpg);
+}
+ 
+.thumbnaib1{
+    width: 350px;
+    height: 160px;
+    margin: 2px;
+    margin-left: 20px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/Continue/1.jpg);
+}
+ 
+  
+.thumbnaiba2{
+    width: 350px;
+    height: 160px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/Continue/2.jpg);
+}
+  
+.thumbnaiba3{
+    width: 350px;
+    height: 160px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/Continue/3.jpg);
+}
+  
+.thumbnaiba4{
+    width: 350px;
+    height: 160px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/Continue/4.jpg);
+}
+  
+.thumbnaiba5{
+    width: 350px;
+    height: 160px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/Continue/5.jpg);
+}
+  
+.thumbnaiba6{
+    width: 350px;
+    height: 160px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/Continue/6.jpg);
+}
+
+ 
+.thumbnalb1{
+    width: 250px;
+    height: 170px;
+    margin: 2px;
+    margin-left: 20px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/Top/1.jpg);
+}
+ 
+ 
+.thumbnalba2{
+    width: 250px;
+    height: 170px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/Top/2.jpg);
+}
+  
+.thumbnalba3{
+    width: 250px;
+    height: 170px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/Top/3.jpg);
+}
+  
+.thumbnalba4{
+    width: 250px;
+    height: 170px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/Top/4.jpg);
+}
+  
+.thumbnalba5{
+    width: 250px;
+    height: 170px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/Top/5.jpg);
+}
+  
+.thumbnalba6{
+    width: 250px;
+    height: 170px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/Top/6.jpg);
+}
+ 
+ 
+.thumbnilb1{
+    width: 350px;
+    height: 160px;
+    margin: 2px;
+    margin-left: 20px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/telugu/1.jpg);
+}
+  
+.thumbnilba2{
+    width: 350px;
+    height: 160px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/telugu/2.jpg);
+}
+  
+.thumbnilba3{
+    width: 350px;
+    height: 160px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/telugu/3.jpg);
+}
+  
+.thumbnilba4{
+    width: 350px;
+    height: 160px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/telugu/4.jpg);
+}
+  
+.thumbnilba5{
+    width: 350px;
+    height: 160px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/telugu/5.jpg);
+}
+  
+.thumbnilba6{
+    width: 350px;
+    height: 160px;
+    margin: 2px;
+    border: 3px solid black ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/thumbnail/telugu/6.jpg);
+}
